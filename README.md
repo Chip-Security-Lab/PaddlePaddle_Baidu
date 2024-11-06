@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Overview
-[VerilogCoder](https://arxiv.org/abs/2408.08927) is a RTL generation framework LLM-based.
+[RT—DETR-V1](https://arxiv.org/abs/2408.08927) is a RTL generation framework LLM-based.
 
 ## 🔔 News
 - **New Reports**
